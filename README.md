@@ -1,5 +1,5 @@
 # WOPR "demo"
-A simple python script emulating WOPR from the movie War Games
+A simple python script emulating WOPR from the movie War Games (1983).
 
 99% vibe coded with Claude! I actually had to copy/paste a character based world map into Claude, since it was clueless on how to generate it.
 
